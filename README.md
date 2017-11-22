@@ -1,4 +1,9 @@
  # Weekly Reports
+ Dont work last second  
+ Follow Hand ins  
+ Work from home solution  
+ Fallen behind on work  
+ Demand more from the designers so there is a clear understanding of the game.  
  
  ## Week One
 I kinda did my world pitch presentation the night before presentation, I knew what world I was going to present before, I just hadn't layed it out on "paper". Which showed in the results I got a 40.
