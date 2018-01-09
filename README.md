@@ -37,3 +37,24 @@ Durning the Peer review my reviews said to ask less questions about the mechanic
 ## Week Eight
 
 I have fallen behind on the comp220 module, but hopefully I can Catch up when the Animation video comes out.
+
+## Week Nine
+
+I have encountered a flaw in my plan for the VR project being that, I can't track where my shoulder/body position is going to be without tracking the body rotation, so I have to do one full arm tracking instead of full arm tracking.
+I can't catch up on the graphics because my Internet at home doesn't work so I need to find a way to catch up.
+
+## Week 10 
+
+Figuring out the positions of the body for the VR is becoming incresingly difficult because of the character rigging and vive trackers not being perfect tracking devices. 
+
+## Week 11
+
+Work on the team project has slowed down due to focus on the VR hand in, but the team seems to have slowed down anyways.
+I havent gotten a chance to catch up on Graphics, still have no internet so i focus on VR but cant work on VR because I can only test it at school when the VR room is free.
+
+## Week 12
+
+I only have basic tracking for the VR peer review and i have nothing to show for the graphics peer review I've followed the lectures and know what does where, but I have not work to show, just because of my internet situation at home, So i Need a solution for working offline which is difficult because the second I encounter a problem I can't just google it.
+
+
+
